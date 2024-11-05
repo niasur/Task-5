@@ -63,4 +63,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: mazzlookman/books-management-api:latest
+          tags: nia/books-management-api:latest
