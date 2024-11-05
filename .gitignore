@@ -1,0 +1,7 @@
+.idea
+setup.sh
+node_modules
+dist
+.env
+coverage
+notes
